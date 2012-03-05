@@ -1,0 +1,36 @@
+README:
+The terms of use:
+I. You are not alowed to change anything in the plugin.yml file under any circumstance. If i you do you will be
+Repoted to bukkit for violating rules and you will be banned from using any Realm_of_Infinia's plugins
+(not sure how i will find you but oh well).
+II. You will ask Realm_of_Infinia before cloning or copying the plugin (pm through minecraftforums/bukkitdev).
+III. You will not tell people you made this plugin or take credit for it.
+
+**Install**
+1. drag and drop into /plugins folder
+2.(this only occurs for V1.9-V1.0) Make a folder called Broadcaster (inside plugins dir) and inside that make a text 
+file called messages.txt
+3. put all messages you want to into messages.txt and reload.
+
+
+**Color Codes**
+&e = Yellow
+&d = Light purple
+&f = White
+&a = Red
+&c = Aqua
+&b = Magic
+&1 = Gray
+&2 = Blue
+&3 = Green
+&4 = Gold
+&5 = Dark purple
+&6 = Dark blue
+&7 = Dark aqua
+&8 = Dark green
+&9 = Dark gray
+
+**Commands**
+1. sb = means Stop broadcasts (!Errors with V1.9-V1.0 Commands DO NOT FUNCTION!)
+2. stb = means Start broacasts (!Errors with V1.9-V1.0 Commands DO NOT FUNCTION!)
+3. abreload = means AutoBroadcaster reload (!HAS NOT YET BEEN IMPLEMENTED!)
